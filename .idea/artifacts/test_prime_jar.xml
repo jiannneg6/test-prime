@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="test-prime:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/test_prime_jar</output-path>
+    <root id="archive" name="test-prime.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/out/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="test-prime" />
+    </root>
+  </artifact>
+</component>
